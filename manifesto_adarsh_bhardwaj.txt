@@ -1,0 +1,11 @@
+------------------------------------------
+Open Source Manifesto
+Author: adarsh_bhardwaj
+Date: 21 March 2026
+------------------------------------------
+
+I believe in the power of open-source software. Tools like vs code have become an essential part of my daily life, showing how collaborative development can create powerful solutions.
+To me, freedom means Opportunity — the ability to learn, modify, and share knowledge without restrictions.
+In the future, I aspire to build AI Model and share it openly so that others can benefit, improve it, and contribute back to the community.
+
+This is my small contribution to the open-source philosophy.
