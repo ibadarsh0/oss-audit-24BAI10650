@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="project_banner.jpeg" width="800"/>
 </p>
 
@@ -12,6 +12,11 @@ Registration Number: 24BAI10650
 
 ## 💻 Chosen Software
 Linux Kernel (GPL v2)
+
+---
+
+## 📌 Project Description
+This project explores the fundamentals of open-source software using the Linux Kernel as a case study. It includes analysis of its origin, licensing, and ecosystem, along with practical implementation through five shell scripts that demonstrate system information retrieval, package inspection, disk auditing, log analysis, and manifesto generation. The project combines both theoretical understanding and hands-on Linux scripting concepts.
 
 ---
 
@@ -42,4 +47,3 @@ bash script2_package_inspector.sh
 bash script3_disk_auditor.sh
 bash script4_log_analyzer.sh 
 bash script5_manifesto_generator.sh
-
